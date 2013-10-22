@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iqt-logirel-tst", "iqt-logirel-tst\iqt-logirel-tst.csproj", "{9012D55B-2B77-442A-979A-1149A3DC54DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iqt-logirel-tst.Tests", "iqt-logirel-tst.Tests\iqt-logirel-tst.Tests.csproj", "{F7F944D8-7940-4D27-AAFB-D159E58A9460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9012D55B-2B77-442A-979A-1149A3DC54DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9012D55B-2B77-442A-979A-1149A3DC54DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9012D55B-2B77-442A-979A-1149A3DC54DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9012D55B-2B77-442A-979A-1149A3DC54DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F944D8-7940-4D27-AAFB-D159E58A9460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F944D8-7940-4D27-AAFB-D159E58A9460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F944D8-7940-4D27-AAFB-D159E58A9460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F944D8-7940-4D27-AAFB-D159E58A9460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
